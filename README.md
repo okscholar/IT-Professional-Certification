@@ -1,5 +1,5 @@
 # IT Professional Certification
-[Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification*
+[Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2025
 
