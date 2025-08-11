@@ -3,9 +3,9 @@ Dr. Olga Khon: IT Professional Certification
 
 ## 2025
 
-* **IBM Generative AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: [3ZT9CU6W6XNW] (https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
-     - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS] (https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
-     - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS] (https://coursera.org/verify/MLMU44GM6VNS)
+* **IBM Generative AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
+     - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
+     - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS](https://coursera.org/verify/MLMU44GM6VNS)
      - Generative AI: Prompt Engineering Basics  (IBM), 2025. Credential ID: TPZLJZ10P9T1
      - Python for Data Science, AI & Development  (IBM), 2021. Credential ID: 3UJJCMMTZ8VA
      - Developing AI Applications with Python and Flask  (IBM), 2025. Credential ID: DB2E7169RI27
@@ -21,8 +21,8 @@ Dr. Olga Khon: IT Professional Certification
      - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: X5TR3JZHJZ15 
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: 68HWJY6N5SC8
 
-* **IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)**, 2025. Credential ID: [9GME2QN19EML] (https://coursera.org/verify/specialization/9GME2QN19EML)
-* **IBM AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: OOXUB1LXLU5H, incl.:
+* **IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
+* **IBM AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
      - Machine Learning with Python (IBM), 2021. Credential ID: RV7C3NKWVUC6
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: E7SBPN94PZ4S
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: JV540XEHL29T
