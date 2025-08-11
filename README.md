@@ -63,3 +63,5 @@
      - Data Visualization with Python (IBM), 2021. Credential ID: MXP4WD5VAA49
      - Machine Learning with Python (IBM, Coursera), 2021. Credential ID: RV7C3NKWVUC6
      - Applied Data Science Capstone (IBM), 2021. Credential ID: HCB3TA78B5VL
+ * **<ins>IBM Applied Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [YLH6V2BJMX4B](https://coursera.org/verify/specialization/YLH6V2BJMX4B) 
+ * **<ins>IBM Introduction to Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [8FFKJZ75GB3A](https://coursera.org/verify/specialization/8FFKJZ75GB3A) 
