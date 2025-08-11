@@ -51,3 +51,15 @@
      -  Introduction to Trading, Machine Learning and GCP (Google, NYIF), 2024. Credential ID:  VAQHKUGV2CVJ
      -  Using Machine Learning in Trading and Finance (Google, NYIF), 2024. Credential ID:  IDOXXFVADUSN
      -  Reinforcement Leaning for Trading Strategies (Google, NYIF), 2024. Credential ID:  C5NDHNAYQ8SQ
+
+## 2021
+
+* **<ins>IBM Data Science Professional Certificate (IBM)</ins>**, 2021. Credential ID: [C7YQ32PTEW5E](https://coursera.org/verify/professional-cert/C7YQ32PTEW5E), incl.:
+     - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
+     - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
+     - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
+     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: ACRJ8W4BVTJL
+     - Data Analysis with Python (IBM), 2021. Credential ID: RRN2UQ5VEF93
+     - Data Visualization with Python (IBM), 2021. Credential ID: MXP4WD5VAA49
+     - Machine Learning with Python (IBM, Coursera), 2021. Credential ID: RV7C3NKWVUC6
+     - Applied Data Science Capstone (IBM), 2021. Credential ID: HCB3TA78B5VL
