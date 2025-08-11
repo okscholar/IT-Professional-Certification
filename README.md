@@ -6,20 +6,20 @@
 * **<ins>IBM Generative AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
      - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
      - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS](https://coursera.org/verify/MLMU44GM6VNS)
-     - Generative AI: Prompt Engineering Basics  (IBM), 2025. Credential ID: TPZLJZ10P9T1
-     - Python for Data Science, AI & Development  (IBM), 2021. Credential ID: 3UJJCMMTZ8VA
-     - Developing AI Applications with Python and Flask  (IBM), 2025. Credential ID: DB2E7169RI27
-     - Building Generative AI-Powered Applications with Python (IBM), 2025. Credential ID: LF9ZI0KWB8RQ
-     - Data Analysis with Python (IBM), 2021. Credential ID: RRN2UQ5VEF93
-     - Machine Learning with Python (IBM), 2021. Credential ID: RV7C3NKWVUC6
-     - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: E7SBPN94PZ4S 
-     - Generative AI and LLMs: Architecture and Data Preparation  (IBM), 2025. Credential ID: YXZBOQEG44ZC 
-     - Gen AI Foundational Models for NLP and Language Understanding (IBM), 2025. Credential ID: 8SN4377UD59R 
-     - Generative AI Language Modeling with Transformers (IBM), 2025. Credential ID: FPM030CYDSC0 
-     - Generative AI Engineering and Fine-Tuning Transformers (IBM), 2025. Credential ID: IVES11LZBKS4 
-     - Generative AI Advance FineTuning for LLMs (IBM), 2025. Credential ID: IL2WV9ISE4J4 
-     - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: X5TR3JZHJZ15 
-     - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: 68HWJY6N5SC8
+     - Generative AI: Prompt Engineering Basics  (IBM), 2025. Credential ID: [TPZLJZ10P9T1](https://coursera.org/verify/TPZLJZ10P9T1)
+     - Python for Data Science, AI & Development  (IBM), 2021. Credential ID: [3UJJCMMTZ8VA](https://coursera.org/verify/3UJJCMMTZ8VA)
+     - Developing AI Applications with Python and Flask  (IBM), 2025. Credential ID: [DB2E7169RI27](https://coursera.org/verify/DB2E7169RI27)
+     - Building Generative AI-Powered Applications with Python (IBM), 2025. Credential ID: [LF9ZI0KWB8RQ](https://coursera.org/verify/LF9ZI0KWB8RQ)
+     - Data Analysis with Python (IBM), 2021. Credential ID: [RRN2UQ5VEF93](https://coursera.org/verify/RRN2UQ5VEF93)
+     - Machine Learning with Python (IBM), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
+     - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S) 
+     - Generative AI and LLMs: Architecture and Data Preparation  (IBM), 2025. Credential ID: [YXZBOQEG44ZC](https://coursera.org/verify/YXZBOQEG44ZC) 
+     - Gen AI Foundational Models for NLP and Language Understanding (IBM), 2025. Credential ID: [8SN4377UD59R](https://coursera.org/verify/8SN4377UD59R) 
+     - Generative AI Language Modeling with Transformers (IBM), 2025. Credential ID: [FPM030CYDSC0](https://coursera.org/verify/FPM030CYDSC0) 
+     - Generative AI Engineering and Fine-Tuning Transformers (IBM), 2025. Credential ID: [IVES11LZBKS4](https://coursera.org/verify/IVES11LZBKS4) 
+     - Generative AI Advance FineTuning for LLMs (IBM), 2025. Credential ID: [IL2WV9ISE4J4](https://coursera.org/verify/IL2WV9ISE4J4) 
+     - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: [X5TR3JZHJZ15](https://coursera.org/verify/X5TR3JZHJZ15) 
+     - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: [68HWJY6N5SC8](https://coursera.org/verify/68HWJY6N5SC8)
 
 * **<ins>IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
 * **<ins>IBM AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
