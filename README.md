@@ -3,7 +3,7 @@ Dr. Olga Khon: IT Professional Certification
 
 ## 2025
 
-* **IBM Generative AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
+* * **IBM Generative AI Engineering Professional Certificate (IBM)** *, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
      - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
      - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS](https://coursera.org/verify/MLMU44GM6VNS)
      - Generative AI: Prompt Engineering Basics  (IBM), 2025. Credential ID: TPZLJZ10P9T1
