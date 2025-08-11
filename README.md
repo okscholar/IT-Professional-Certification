@@ -21,8 +21,8 @@
      - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: X5TR3JZHJZ15 
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: 68HWJY6N5SC8
 
-* **IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
-* **IBM AI Engineering Professional Certificate (IBM)**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
+* **<ins>IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
+* **<ins>IBM AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
      - Machine Learning with Python (IBM), 2021. Credential ID: RV7C3NKWVUC6
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: E7SBPN94PZ4S
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: JV540XEHL29T
@@ -36,7 +36,7 @@
      - Generative AI Advance FineTuning for LLMs (IBM), 2025. Credential ID: IL2WV9ISE4J4
      - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: X5TR3JZHJZ15
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: 68HWJY6N5SC8
-* **GOOGLE Advanced Data Analytics Professional Certificate (Google)**, 2025. Credential ID: [CJWJ4XVY18FM](https://coursera.org/verify/professional-cert/CJWJ4XVY18FM), incl.:
+* **<ins>GOOGLE Advanced Data Analytics Professional Certificate (Google)</ins>**, 2025. Credential ID: [CJWJ4XVY18FM](https://coursera.org/verify/professional-cert/CJWJ4XVY18FM), incl.:
      -  Foundations of Data Science (Google), 2025. Credential ID: C6HYD9BF56O5
      -  Get Started With Python (Google), 2025. Credential ID: SQ1G3BNQ2DI5
      -  Going Beyond the Numbers: Translate Data Into Insights (Google), 2025. Credential ID: UL0IZT0BEZS7
