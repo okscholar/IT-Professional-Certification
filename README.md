@@ -44,3 +44,10 @@
      -  Regression Analysis: Simplify Complex Data Relationships (Google), 2025. Credential ID: QH7JVWQW9U1N 
      -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: TBF855EI9VP5 
      -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
+
+## 2024
+
+* **<ins>GOOGLE and NYIF Machine Learning for Trading Specialization (Google and New York Institute of Finance - NYIF)</ins>**, 2024. Credential ID: [E9WOB243j6Ol](https://coursera.org/verify/specialization/E9WOB243J6OI), incl.:
+     -  Introduction to Trading, Machine Learning and GCP (Google, NYIF), 2024. Credential ID:  VAQHKUGV2CVJ
+     -  Using Machine Learning in Trading and Finance (Google, NYIF), 2024. Credential ID:  IDOXXFVADUSN
+     -  Reinforcement Leaning for Trading Strategies (Google, NYIF), 2024. Credential ID:  C5NDHNAYQ8SQ
