@@ -2,6 +2,16 @@
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2025
+* **<ins>GOOGLE Cybersecurity Professional Certificate (Google)</ins>**, 2025.  Credential ID: [DD9XCT8OKCBN](https://www.coursera.org/account/accomplishments/professional-cert/DD9XCT8OKCBN), incl.:
+     - Foundations of Cybersecurity (Google), 2025. Credential ID: [JE93ADNZV1SE](https://www.coursera.org/account/accomplishments/verify/JE93ADNZV1SE)
+     - Play It Safe: Manage Security Risks (Google), 2025. Credential ID: [3YKC5A10FHEH](https://www.coursera.org/account/accomplishments/verify/3YKC5A10FHEH)
+     - Connect and Protect: Networks and Network Security (Google), 2025. Credential ID: [ZR8GZH16UVUA](https://www.coursera.org/account/accomplishments/verify/ZR8GZH16UVUA)
+     - Tools of Trade: Linux and SQL (Google), 2025. Credential ID: [40EK42YT7NIL](https://www.coursera.org/account/accomplishments/verify/40EK42YT7NIL)
+     - Assets, Threats and Vulnerabilities (Google), 2025. Credential ID: [MQRH0VY1TN5I](https://www.coursera.org/account/accomplishments/verify/MQRH0VY1TN5I)
+     - Sound the Alarm: Detection and Response (Google), 2025. Credential ID: [VSEGF79C4WBO](https://www.coursera.org/account/accomplishments/verify/VSEGF79C4WBO)
+     - Automate Cybersecurity Tasks with Python (Google), 2025. Credential ID: [7XWDNFZAG79X](https://www.coursera.org/account/accomplishments/verify/7XWDNFZAG79X)
+     - Put It to Work: Prepare for Cybersecurity Jobs (Google), 2025. Credential ID: [JPS3HB4TNUHI](https://www.coursera.org/account/accomplishments/verify/JPS3HB4TNUHI)
+     - Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
 
 * **<ins>IBM Generative AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
      - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
