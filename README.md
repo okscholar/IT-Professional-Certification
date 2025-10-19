@@ -56,11 +56,11 @@
      -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
 
 * **<ins>IBM Data Science Fundamentals with Python and SQL Specialization (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://coursera.org/verify/specialization/43LXO93TGFA4), incl.:
-     - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
-     - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
-     - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
+     - Tools for Data Science (IBM), 2021. Credential ID: [8JWNATFV5P53](https://coursera.org/verify/8JWNATFV5P53)
+     - Python for Data Science, AI & Development (IBM, Coursera), 2021. Credential ID: [3UJJCMMTZ8VA](https://coursera.org/verify/3UJJCMMTZ8VA)
+     - Python Project for Data Science (IBM), 2021. Credential ID: [YTUUPRCGR3RR](https://coursera.org/verify/YTUUPRCGR3RR)
      - Statistics for Data Science with Python (IBM), 2025. Credential ID: [IU4MM5OUM28Z](https://coursera.org/verify/IU4MM5OUM28Z)
-     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: ACRJ8W4BVTJL
+     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: [ACRJ8W4BVTJL](https://coursera.org/verify/ACRJ8W4BVTJL)
      
 
 ## 2024
