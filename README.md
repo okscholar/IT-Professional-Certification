@@ -55,11 +55,11 @@
      -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: TBF855EI9VP5 
      -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
 
-* **<ins>IBM Data Science Fundamentals with Python and SQL Specialization (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://www.coursera.org/account/accomplishments/specialization/43LXO93TGFA4), incl.:
+* **<ins>IBM Data Science Fundamentals with Python and SQL Specialization (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://coursera.org/verify/specialization/43LXO93TGFA4), incl.:
      - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
      - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
      - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
-     - Statistics for Data Science with Python (IBM), 2025. Credential ID: [IU4MM5OUM28Z](https://www.coursera.org/account/accomplishments/verify/IU4MM5OUM28Z)
+     - Statistics for Data Science with Python (IBM), 2025. Credential ID: [IU4MM5OUM28Z](https://coursera.org/verify/IU4MM5OUM28Z)
      - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: ACRJ8W4BVTJL
      
 
