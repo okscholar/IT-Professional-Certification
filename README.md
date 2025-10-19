@@ -31,7 +31,7 @@
      - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: [X5TR3JZHJZ15](https://coursera.org/verify/X5TR3JZHJZ15) 
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: [68HWJY6N5SC8](https://coursera.org/verify/68HWJY6N5SC8)
 
-* **<ins>IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
+* **<ins>IBM Generative AI Engineering with LLMs Specialization (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
 * **<ins>IBM AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
      - Machine Learning with Python (IBM), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
@@ -55,7 +55,7 @@
      -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: TBF855EI9VP5 
      -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
 
-* **<ins>IBM Data Science Fundamentals with Python and SQL Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://www.coursera.org/account/accomplishments/specialization/43LXO93TGFA4), incl.:
+* **<ins>IBM Data Science Fundamentals with Python and SQL Specialization (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://www.coursera.org/account/accomplishments/specialization/43LXO93TGFA4), incl.:
      - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
      - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
      - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
