@@ -47,13 +47,14 @@
      - Fundamentals of AI Agents Using RAG and LangChain (IBM), 2025. Credential ID: X5TR3JZHJZ15
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: 68HWJY6N5SC8
 * **<ins>GOOGLE Advanced Data Analytics Professional Certificate (Google)</ins>**, 2025. Credential ID: [CJWJ4XVY18FM](https://coursera.org/verify/professional-cert/CJWJ4XVY18FM), incl.:
-     -  Foundations of Data Science (Google), 2025. Credential ID: C6HYD9BF56O5
-     -  Get Started With Python (Google), 2025. Credential ID: SQ1G3BNQ2DI5
-     -  Going Beyond the Numbers: Translate Data Into Insights (Google), 2025. Credential ID: UL0IZT0BEZS7
-     -  Power of Statistics (Google), 2025. Credential ID: 7W067X9GLBS8
-     -  Regression Analysis: Simplify Complex Data Relationships (Google), 2025. Credential ID: QH7JVWQW9U1N 
-     -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: TBF855EI9VP5 
-     -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
+     -  Foundations of Data Science (Google), 2025. Credential ID: [C6HYD9BF56O5](https://coursera.org/verify/C6HYD9BF56O5)
+     -  Get Started With Python (Google), 2025. Credential ID: [SQ1G3BNQ2DI5](https://coursera.org/verify/SQ1G3BNQ2DI5)
+     -  Going Beyond the Numbers: Translate Data Into Insights (Google), 2025. Credential ID: [UL0IZT0BEZS7](https://coursera.org/verify/UL0IZT0BEZS7)
+     -  Power of Statistics (Google), 2025. Credential ID: [7W067X9GLBS8](https://coursera.org/verify/7W067X9GLBS8)
+     -  Regression Analysis: Simplify Complex Data Relationships (Google), 2025. Credential ID: [QH7JVWQW9U1N](https://coursera.org/verify/QH7JVWQW9U1N) 
+     -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: [TBF855EI9VP5](https://coursera.org/verify/TBF855EI9VP5) 
+     -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: [7I36LX34245B](https://coursera.org/verify/7I36LX34245B)
+     -  Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
 
 * **<ins>IBM Data Science Fundamentals with Python and SQL Specialization (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://coursera.org/verify/specialization/43LXO93TGFA4), incl.:
      - Tools for Data Science (IBM), 2021. Credential ID: [8JWNATFV5P53](https://coursera.org/verify/8JWNATFV5P53)
