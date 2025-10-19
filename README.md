@@ -67,20 +67,20 @@
 ## 2024
 
 * **<ins>GOOGLE and NYIF Machine Learning for Trading Specialization (Google and New York Institute of Finance - NYIF)</ins>**, 2024. Credential ID: [E9WOB243j6Ol](https://coursera.org/verify/specialization/E9WOB243J6OI), incl.:
-     -  Introduction to Trading, Machine Learning and GCP (Google, NYIF), 2024. Credential ID:  VAQHKUGV2CVJ
-     -  Using Machine Learning in Trading and Finance (Google, NYIF), 2024. Credential ID:  IDOXXFVADUSN
-     -  Reinforcement Leaning for Trading Strategies (Google, NYIF), 2024. Credential ID:  C5NDHNAYQ8SQ
+     -  Introduction to Trading, Machine Learning and GCP (Google, NYIF), 2024. Credential ID: [VAQHKUGV2CVJ](https://coursera.org/verify/VAQHKUGV2CVJ)
+     -  Using Machine Learning in Trading and Finance (Google, NYIF), 2024. Credential ID: [IDOXXFVADUSN](https://coursera.org/verify/IDOXXFVADUSN)
+     -  Reinforcement Leaning for Trading Strategies (Google, NYIF), 2024. Credential ID: [C5NDHNAYQ8SQ](https://coursera.org/verify/C5NDHNAYQ8SQ)
 
 ## 2021
 
 * **<ins>IBM Data Science Professional Certificate (IBM)</ins>**, 2021. Credential ID: [C7YQ32PTEW5E](https://coursera.org/verify/professional-cert/C7YQ32PTEW5E), incl.:
-     - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
-     - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
-     - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
-     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: ACRJ8W4BVTJL
-     - Data Analysis with Python (IBM), 2021. Credential ID: RRN2UQ5VEF93
-     - Data Visualization with Python (IBM), 2021. Credential ID: MXP4WD5VAA49
-     - Machine Learning with Python (IBM, Coursera), 2021. Credential ID: RV7C3NKWVUC6
-     - Applied Data Science Capstone (IBM), 2021. Credential ID: HCB3TA78B5VL
+     - Tools for Data Science (IBM), 2021. Credential ID: [8JWNATFV5P53](https://coursera.org/verify/8JWNATFV5P53)
+     - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: [3UJJCMMTZ8VA](https://coursera.org/verify/3UJJCMMTZ8VA)
+     - Python Project for Data Science (IBM), 2021. Credential ID: [YTUUPRCGR3RR](https://coursera.org/verify/YTUUPRCGR3RR)
+     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: [ACRJ8W4BVTJL](https://coursera.org/verify/ACRJ8W4BVTJL)
+     - Data Analysis with Python (IBM), 2021. Credential ID: [RRN2UQ5VEF93](https://coursera.org/verify/RRN2UQ5VEF93)
+     - Data Visualization with Python (IBM), 2021. Credential ID: [MXP4WD5VAA49](https://coursera.org/verify/MXP4WD5VAA49)
+     - Machine Learning with Python (IBM, Coursera), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
+     - Applied Data Science Capstone (IBM), 2021. Credential ID: [HCB3TA78B5VL](https://coursera.org/verify/HCB3TA78B5VL)
  * **<ins>IBM Applied Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [YLH6V2BJMX4B](https://coursera.org/verify/specialization/YLH6V2BJMX4B) 
  * **<ins>IBM Introduction to Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [8FFKJZ75GB3A](https://coursera.org/verify/specialization/8FFKJZ75GB3A) 
