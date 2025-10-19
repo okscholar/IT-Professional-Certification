@@ -33,11 +33,11 @@
 
 * **<ins>IBM Generative AI Engineering with LLMs Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
 * **<ins>IBM AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
-     - Machine Learning with Python (IBM), 2021. Credential ID: RV7C3NKWVUC6
-     - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: E7SBPN94PZ4S
-     - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: JV540XEHL29T
-     - Introduction to Neural Networks and PyTorch (IBM), 2025. Credential ID: IRDPGHNL7S2J
-     - Deep Learning with PyTorch (IBM), 2025. Credential ID: 7INQACNJY0NG
+     - Machine Learning with Python (IBM), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
+     - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
+     - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
+     - Introduction to Neural Networks and PyTorch (IBM), 2025. Credential ID: [IRDPGHNL7S2J](https://www.coursera.org/verify/IRDPGHNL7S2J)
+     - Deep Learning with PyTorch (IBM), 2025. Credential ID: [7INQACNJY0NG](https://www.coursera.org/verify/7INQACNJY0NG)
      - AI Capstone Project with Deep Learning (IBM), 2025. Credential ID: MF31CIQBICH9
      - Generative AI and LLMs: Architecture and Data Preparation  (IBM), 2025. Credential ID: YXZBOQEG44ZC
      - Gen AI Foundational Models for NLP and Language Understanding (IBM), 2025. Credential ID: 8SN4377UD59R
@@ -54,6 +54,14 @@
      -  Regression Analysis: Simplify Complex Data Relationships (Google), 2025. Credential ID: QH7JVWQW9U1N 
      -  The Nuts and Bolts of Machine Learning (Google), 2025. Credential ID: TBF855EI9VP5 
      -  Google Advanced Data Analytics Capstone (Google), 2025. Credential ID: 7I36LX34245B
+
+* **<ins>IBM Data Science Fundamentals with Python and SQL Specialization Certificate (IBM)</ins>**, 2025. Credential ID: [43LXO93TGFA4](https://www.coursera.org/account/accomplishments/specialization/43LXO93TGFA4), incl.:
+     - Tools for Data Science (IBM), 2021. Credential ID: 8JWNATFV5P53
+     - Python for Data Science, AI&Development (IBM, Coursera), 2021. Credential ID: 3UJJCMMTZ8VA
+     - Python Project for Data Science (IBM), 2021. Credential ID: YTUUPRCGR3RR
+     - Statistics for Data Science with Python (IBM), 2025. Credential ID: [IU4MM5OUM28Z](https://www.coursera.org/account/accomplishments/verify/IU4MM5OUM28Z)
+     - Databases and SQL for Data Science with Python (IBM), 2021. Credential ID: ACRJ8W4BVTJL
+     
 
 ## 2024
 
