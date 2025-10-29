@@ -13,7 +13,7 @@
      - Put It to Work: Prepare for Cybersecurity Jobs (Google), 2025. Credential ID: [JPS3HB4TNUHI](https://www.coursera.org/account/accomplishments/verify/JPS3HB4TNUHI)
      - Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
 
-* **<ins>IBM Generative AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
+* **<ins>IBM Generative AI Engineering (with PyTorch, LangChain & Hugging Face) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
      - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
      - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS](https://coursera.org/verify/MLMU44GM6VNS)
      - Generative AI: Prompt Engineering Basics  (IBM), 2025. Credential ID: [TPZLJZ10P9T1](https://coursera.org/verify/TPZLJZ10P9T1)
@@ -32,7 +32,7 @@
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: [68HWJY6N5SC8](https://coursera.org/verify/68HWJY6N5SC8)
 
 * **<ins>IBM Generative AI Engineering with LLMs Specialization (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
-* **<ins>IBM AI Engineering Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
+* **<ins>IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
      - Machine Learning with Python (IBM), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
