@@ -2,6 +2,13 @@
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2025
+* **<ins>IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5), incl.:
+     - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
+     - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
+     - Introduction to Neural Networks and PyTorch (IBM), 2025. Credential ID: [IRDPGHNL7S2J](https://www.coursera.org/verify/IRDPGHNL7S2J)
+     - Deep Learning with PyTorch (IBM), 2025. Credential ID: [7INQACNJY0NG](https://www.coursera.org/verify/7INQACNJY0NG)
+     - AI Capstone Project with Deep Learning (IBM), 2025. Credential ID: [MF31CIQBICH9](https://coursera.org/verify/MF31CIQBICH9)
+    
 * **<ins>GOOGLE Cybersecurity Professional Certificate (Google)</ins>**, 2025.  Credential ID: [DD9XCT8OKCBN](https://www.coursera.org/account/accomplishments/professional-cert/DD9XCT8OKCBN), incl.:
      - Foundations of Cybersecurity (Google), 2025. Credential ID: [JE93ADNZV1SE](https://www.coursera.org/account/accomplishments/verify/JE93ADNZV1SE)
      - Play It Safe: Manage Security Risks (Google), 2025. Credential ID: [3YKC5A10FHEH](https://www.coursera.org/account/accomplishments/verify/3YKC5A10FHEH)
@@ -32,7 +39,7 @@
      - Project: Generative AI Applications with RAG and LangChain (IBM), 2025. Credential ID: [68HWJY6N5SC8](https://coursera.org/verify/68HWJY6N5SC8)
 
 * **<ins>IBM Generative AI Engineering with LLMs Specialization (IBM)</ins>**, 2025. Credential ID: [9GME2QN19EML](https://coursera.org/verify/specialization/9GME2QN19EML)
-* **<ins>IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://www.coursera.org/account/accomplishments/professional-cert/OOXUB1LXLU5H), incl.:
+* **<ins>IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [OOXUB1LXLU5H](https://coursera.org/verify/professional-cert/OOXUB1LXLU5H), incl.:
      - Machine Learning with Python (IBM), 2021. Credential ID: [RV7C3NKWVUC6](https://coursera.org/verify/RV7C3NKWVUC6)
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
