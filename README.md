@@ -2,7 +2,7 @@
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2025
-* **<ins>IBM Deep Learning (with PyTorch, Keras & Tensorflow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5), incl.:
+* **<ins>IBM Deep Learning (with PyTorch, Keras & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5), incl.:
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
      - Introduction to Neural Networks and PyTorch (IBM), 2025. Credential ID: [IRDPGHNL7S2J](https://www.coursera.org/verify/IRDPGHNL7S2J)
