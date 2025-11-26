@@ -2,6 +2,14 @@
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2025
+* **<ins>IBM Machine Learning Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [H32GODNF20PY](https://coursera.org/verify/professional-cert/H32GODNF20PY), incl.:
+     - Exploratory Data Analysis for Machine Learning (IBM), 2025. Credential ID: [O1XUXOTVY4GQ](https://coursera.org/verify/O1XUXOTVY4GQ)
+     - Supervised Machine Learning: Regression (IBM), 2025. Credential ID: [PL651LLOSH2U](https://coursera.org/verify/PL651LLOSH2U)
+     - Supervised Machine Learning: Classification (IBM), 2025. Credential ID: [GMZMDXB3BB5S](https://coursera.org/verify/GMZMDXB3BB5S)
+     - Unsupervised Machine Leaning (IBM), 2025. Credential ID: [Q7HXV1KQRM2Z](https://coursera.org/verify/Q7HXV1KQRM2Z)
+     - Deep Learning and Reinforcement Learning (IBM), 2025. Credential ID: [MTL3RLZ593V6](https://coursera.org/verify/MTL3RLZ593V6)
+     - Machine Learning Capestone (IBM), 2025. Credential ID: [MTL3RLZ593V6](https://coursera.org/verify/5FNHU1ZD52A2)
+
 * **<ins>IBM Deep Learning (with PyTorch, Keras & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5), incl.:
      - Introduction to Deep Learning and Neural Networks with Keras (IBM), 2021. Credential ID: [E7SBPN94PZ4S](https://coursera.org/verify/E7SBPN94PZ4S)
      - Deep Learning with with Keras and Tensorflow (IBM), 2025. Credential ID: [JV540XEHL29T](https://www.coursera.org/verify/JV540XEHL29T)
