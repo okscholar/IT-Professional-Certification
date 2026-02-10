@@ -2,7 +2,7 @@
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2026
-* **<ins>GOOGLE   IT Automation with Python Professional Certificate</ins>**, 2026.  Credential ID: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI), incl.:
+* **<ins>GOOGLE IT Automation with Python Professional Certificate (Google) </ins>**, 2026.  Credential ID: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI), incl.:
      - Crash Course on Python (Google), 2025. Credential ID: [QR8EX7KXIFRE](http://coursera.org/verify/QR8EX7KXIFRE)
      - Using Python to Interact with the Operating System (Google), 2026. Credential ID: [DP4NM8ZP6Q3K](http://coursera.org/verify/DP4NM8ZP6Q3K)
      - Introduction to Git and GitHub (Google), 2026. Credential ID: [0RL1EXLYYPL8](http://coursera.org/verify/0RL1EXLYYPL8)
