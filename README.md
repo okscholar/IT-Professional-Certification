@@ -8,7 +8,7 @@
      - Introduction to Git and GitHub (Google), 2026. Credential ID: [0RL1EXLYYPL8](http://coursera.org/verify/0RL1EXLYYPL8)
      - Troubleshooting and Debugging Techniques (Google), 2026. Credential ID: [WVRALBL1MKHP](http://oursera.org/verify/WVRALBL1MKHP)
      - Configuration Management and the Cloud (Google), 2026. Credential ID: [G3NV3AYVY8TM](http://coursera.org/verify/G3NV3AYVY8TM)
-     - Automating Real-World Task with Python (Google), 2026. Credential ID: [9329IA5GXHLC](http://coursera.org/verify/9329IA5GXHLC)
+     - Automating Real-World Tasks with Python (Google), 2026. Credential ID: [9329IA5GXHLC](http://coursera.org/verify/9329IA5GXHLC)
      - Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
 
 ## 2025
