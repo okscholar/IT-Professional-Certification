@@ -1,6 +1,16 @@
 # IT Professional Certification
 [Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
+## 2026
+* **<ins>GOOGLE  IT Automation with Python Professional Certificate</ins>**, 2026.  Credential ID: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI), incl.:
+     - Crash Course on Python (Google), 2025. Credential ID: [QR8EX7KXIFRE](http://coursera.org/verify/QR8EX7KXIFRE)
+     - Using Python to Interact with the Operating System (Google), 2026. Credential ID: [DP4NM8ZP6Q3K](http://coursera.org/verify/DP4NM8ZP6Q3K)
+     - Introduction to Git and GitHub (Google), 2026. Credential ID: [0RL1EXLYYPL8](http://coursera.org/verify/0RL1EXLYYPL8)
+     - Troubleshooting and Debugging Techniques (Google), 2026. Credential ID: [WVRALBL1MKHP](http://oursera.org/verify/WVRALBL1MKHP)
+     - Configuration Management and the Cloud (Google), 2026. Credential ID: [G3NV3AYVY8TM](http://coursera.org/verify/G3NV3AYVY8TM)
+     - Automating Real-World Task with Python (Google), 2026. Credential ID: [9329IA5GXHLC](http://coursera.org/verify/9329IA5GXHLC)
+     - Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
+
 ## 2025
 * **<ins>IBM Machine Learning Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [H32GODNF20PY](https://coursera.org/verify/professional-cert/H32GODNF20PY), incl.:
      - Exploratory Data Analysis for Machine Learning (IBM), 2025. Credential ID: [O1XUXOTVY4GQ](https://coursera.org/verify/O1XUXOTVY4GQ)
