@@ -1,5 +1,6 @@
+[Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification & Qualifications 
+
 # 1. IT Professional Certification
-[Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certification
 
 ## 2026
 * **<ins> PEARSON  IT Specialist: Python (INF-303) Certification - Certiport, a Pearson VUE Business (Earned: April 2026) </ins>**, 2026.  Credential ID/URL: [CREDENTIAL_URL](https://www.credly.com/badges/9e9ef9ac-bd62-4a2d-b544-34fab99ebf44/public_url)
