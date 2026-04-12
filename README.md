@@ -17,20 +17,20 @@
 ### 2025
 * **IBM Machine Learning Professional Certificate (IBM)**, 2025.  Credential ID/URL: [H32GODNF20PY](https://coursera.org/verify/professional-cert/H32GODNF20PY)
 
-* **<ins>IBM Deep Learning (with PyTorch, Keras & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID/URL: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5)
+* **IBM Deep Learning (with PyTorch, Keras & TensorFlow) Professional Certificate (IBM)**, 2025.  Credential ID/URL: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5)
     
-* **<ins>GOOGLE Cybersecurity Professional Certificate (Google)</ins>**, 2025.  Credential ID/URL: [DD9XCT8OKCBN](https://www.coursera.org/account/accomplishments/professional-cert/DD9XCT8OKCBN)
+* **GOOGLE Cybersecurity Professional Certificate (Google)**, 2025.  Credential ID/URL: [DD9XCT8OKCBN](https://www.coursera.org/account/accomplishments/professional-cert/DD9XCT8OKCBN)
        
-* **<ins>IBM Generative AI Engineering (with PyTorch, LangChain & Hugging Face) Professional Certificate (IBM)</ins>**, 2025.  Credential ID/URL: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
+* **IBM Generative AI Engineering (with PyTorch, LangChain & Hugging Face) Professional Certificate (IBM)**, 2025.  Credential ID/URL: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
   
-* **<ins>IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID/URL: [OOXUB1LXLU5H](https://coursera.org/verify/professional-cert/OOXUB1LXLU5H)
+* **IBM AI Engineering (with Python, PyTorch & TensorFlow) Professional Certificate (IBM)**, 2025.  Credential ID/URL: [OOXUB1LXLU5H](https://coursera.org/verify/professional-cert/OOXUB1LXLU5H)
 
-* **<ins>GOOGLE Advanced Data Analytics Professional Certificate (Google)</ins>**, 2025. Credential ID/URL: [CJWJ4XVY18FM](https://coursera.org/verify/professional-cert/CJWJ4XVY18FM)
+* **GOOGLE Advanced Data Analytics Professional Certificate (Google)**, 2025. Credential ID/URL: [CJWJ4XVY18FM](https://coursera.org/verify/professional-cert/CJWJ4XVY18FM)
 
 ### 2024
 
-* **<ins>GOOGLE and NYIF Machine Learning for Trading Specialization (Google and New York Institute of Finance - NYIF)</ins>**, 2024. Credential ID/URL: [E9WOB243j6Ol](https://coursera.org/verify/specialization/E9WOB243J6OI)
+* **GOOGLE and NYIF Machine Learning for Trading Specialization (Google and New York Institute of Finance - NYIF)**, 2024. Credential ID/URL: [E9WOB243j6Ol](https://coursera.org/verify/specialization/E9WOB243J6OI)
 
 ### 2021
 
-* **<ins>IBM Data Science Professional Certificate (IBM)</ins>**, 2021. Credential ID/URL: [C7YQ32PTEW5E](https://coursera.org/verify/professional-cert/C7YQ32PTEW5E)
+* **IBM Data Science Professional Certificate (IBM)**, 2021. Credential ID/URL: [C7YQ32PTEW5E](https://coursera.org/verify/professional-cert/C7YQ32PTEW5E)
