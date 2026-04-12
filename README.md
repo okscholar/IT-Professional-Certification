@@ -43,7 +43,7 @@
      - Automate Cybersecurity Tasks with Python (Google), 2025. Credential ID: [7XWDNFZAG79X](https://www.coursera.org/account/accomplishments/verify/7XWDNFZAG79X)
      - Put It to Work: Prepare for Cybersecurity Jobs (Google), 2025. Credential ID: [JPS3HB4TNUHI](https://www.coursera.org/account/accomplishments/verify/JPS3HB4TNUHI)
      - Accelerate Your Job Search with AI (Google), 2025. Credential ID: [6JE0QNKCDTE8](https://www.coursera.org/account/accomplishments/verify/6JE0QNKCDTE8)
-* **<ins>IBM  Introduction to Computer Vision and Image Processing (IBM)</ins>**, 2025. Credential ID: [DKIFMQOFD85P](https://coursera.org/verify/DKIFMQOFD85P)
+       
 * **<ins>IBM Generative AI Engineering (with PyTorch, LangChain & Hugging Face) Professional Certificate (IBM)</ins>**, 2025.  Credential ID: [3ZT9CU6W6XNW](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW), incl.:
      - Introduction to Artificial Intelligence  (IBM), 2025. Credential ID: [6HQTJ9QVFYBS](https://coursera.org/verify/professional-cert/3ZT9CU6W6XNW)
      - Generative AI: Introduction and Applications  (IBM), 2025. Credential ID: [MLMU44GM6VNS](https://coursera.org/verify/MLMU44GM6VNS)
@@ -115,5 +115,3 @@
      - Applied Data Science Capstone (IBM), 2021. Credential ID: [HCB3TA78B5VL](https://coursera.org/verify/HCB3TA78B5VL)
        
  * **<ins>IBM Applied Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [YLH6V2BJMX4B](https://coursera.org/verify/specialization/YLH6V2BJMX4B)
-   
- * **<ins>IBM Introduction to Data Science Specialization (IBM)</ins>**, 2021. Credential ID: [8FFKJZ75GB3A](https://coursera.org/verify/specialization/8FFKJZ75GB3A) 
