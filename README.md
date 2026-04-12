@@ -4,10 +4,10 @@
 
 ## 2026
 * **<ins> PEARSON  IT Specialist: Python Certification - Certiport, a Pearson VUE Business (Earned: April 2026) </ins>**, 2026.  Credential ID/URL: [CREDENTIAL_URL](https://www.credly.com/badges/9e9ef9ac-bd62-4a2d-b544-34fab99ebf44/public_url):
-*       Certification Name: IT Specialist: Python
-       - Issuing Organisation: Certiport, a Pearson VUE Business;
-       - Date Earned: April 2026;
-       - Credential ID/URL: [CREDENTIAL_URL](https://www.credly.com/badges/9e9ef9ac-bd62-4a2d-b544-34fab99ebf44/public_url)
+*        - Certification Name: IT Specialist: Python
+         - Issuing Organisation: Certiport, a Pearson VUE Business;
+         - Date Earned: April 2026;
+         - Credential ID/URL: [CREDENTIAL_URL](https://www.credly.com/badges/9e9ef9ac-bd62-4a2d-b544-34fab99ebf44/public_url)
 
 
 # 2. Qualifications & Certificates
