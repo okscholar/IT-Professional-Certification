@@ -12,10 +12,10 @@
 
 ## II. Qualifications & Certificates
 ### 2026
-* **GOOGLE IT Automation with Python Professional Certificate (Google)>**, 2026.  Credential ID/URL: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI)
+* **GOOGLE IT Automation with Python Professional Certificate (Google)**, 2026.  Credential ID/URL: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI)
 
 ### 2025
-* **<ins>IBM Machine Learning Professional Certificate (IBM)</ins>**, 2025.  Credential ID/URL: [H32GODNF20PY](https://coursera.org/verify/professional-cert/H32GODNF20PY)
+* **IBM Machine Learning Professional Certificate (IBM)**, 2025.  Credential ID/URL: [H32GODNF20PY](https://coursera.org/verify/professional-cert/H32GODNF20PY)
 
 * **<ins>IBM Deep Learning (with PyTorch, Keras & TensorFlow) Professional Certificate (IBM)</ins>**, 2025.  Credential ID/URL: [1G32REIT6FB5](https://coursera.org/verify/professional-cert/1G32REIT6FB5)
     
