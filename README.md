@@ -1,4 +1,4 @@
-[Dr. Olga Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certifications & Qualifications 
+[Dr. Olga D. Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certifications & Qualifications 
 
 ## I. IT Professional Certification
 
