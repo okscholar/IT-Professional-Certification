@@ -40,7 +40,7 @@
 
 #### 2006:
 * **The European Foundation Certificate in Banking (European Banking Training Network Absl)**, 2006
-* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 4.0 (Custody/Depository Activity) (Federal Financial Markets Service - FFMS)**, 2006
+* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 4.0 (Custody/Depository Activity) (Federal Financial Markets Service - FFMS)**, 2006. Credential ID: KA008627
 
 #### 2005:
-* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 1.0 (Broker/Dealer Activity) (Federal Financial Markets Service - FFMS)**, 2005
+* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 1.0 (Broker/Dealer Activity) (Federal Financial Markets Service - FFMS)**, 2005. Credential ID: KA005053
