@@ -3,12 +3,12 @@
 ## I. IT Professional Certification
 
 #### 2026
-* **<ins>PEARSON  IT Specialist: Artificial Intelligence Certification - Certiport, a Pearson VUE Business (Earned: June 2026)</ins>**, 2026.  Credential ID: [0122be2b-607b-44a9-95ae-bb22913c9669](https://www.credly.com/badges/0122be2b-607b-44a9-95ae-bb22913c9669/public_url):
+* **<ins>PEARSON  IT Specialist: Artificial Intelligence Certification - Certiport, a Pearson VUE Business (Earned: June 2026)</ins>**, 2026. Credential ID: nvB8-DkT5. [Credential URL](https://www.credly.com/badges/0122be2b-607b-44a9-95ae-bb22913c9669/public_url):
     - Certification Name: IT Specialist: Artificial Intelligence
     - Issuing Organisation: Certiport, a Pearson VUE Business
     - Date Earned: June 2026
       
-* **<ins>PEARSON  IT Specialist: Python Certification - Certiport, a Pearson VUE Business (Earned: April 2026)</ins>**, 2026.  Credential ID: [4ab560ac-53db-488d-bde7-0d7b5b5f87ed](https://www.credly.com/badges/4ab560ac-53db-488d-bde7-0d7b5b5f87ed/public_url):
+* **<ins>PEARSON  IT Specialist: Python Certification - Certiport, a Pearson VUE Business (Earned: April 2026)</ins>**, 2026. Credential ID: 4P5B-XMzH. [Credential URL](https://www.credly.com/badges/4ab560ac-53db-488d-bde7-0d7b5b5f87ed/public_url):
     - Certification Name: IT Specialist: Python
     - Issuing Organisation: Certiport, a Pearson VUE Business
     - Date Earned: April 2026
