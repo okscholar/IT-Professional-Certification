@@ -1,6 +1,6 @@
 [Dr. Olga D. Khon](https://sites.google.com/view/blogbook-drolgadkhon/author): IT Professional Certifications & Qualifications 
 
-## I. IT Professional Certification
+## I. Professional IT Certification
 
 #### 2026
 * **<ins>PEARSON  IT Specialist: Artificial Intelligence Certification - Certiport, a Pearson VUE Business (Earned: June 2026)</ins>**, 2026. Credential ID: nvB8-DkT5. [Credential URL](https://www.credly.com/badges/0122be2b-607b-44a9-95ae-bb22913c9669/public_url):
@@ -13,7 +13,14 @@
     - Issuing Organisation: Certiport, a Pearson VUE Business
     - Date Earned: April 2026
 
-## II. Qualifications & Certificates
+## II.  Professional Finance Certification
+
+#### 2026
+* **<ins>The Chartered Institute for Securities & Investment (CISI) UK Financial Regulation (Earned: August 2026)</ins>**, 2026. Credential ID: 12254189; UAN: L/504/8622
+  
+    
+      
+## III. Qualifications & Certificates
 #### 2026
 * **GOOGLE IT Automation with Python Professional Certificate (Google)**, 2026.  Credential ID: [8B2LC5JF6YZI](https://coursera.org/verify/professional-cert/8B2LC5JF6YZI)
 
