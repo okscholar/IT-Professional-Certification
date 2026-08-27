@@ -3,6 +3,10 @@
 ## I. Professional IT Certification
 
 #### 2026
+* **<ins>PEARSON  IT Specialist: Data Analytics Certification - Certiport, a Pearson VUE Business (Earned: August 2026)</ins>**, 2026. [[Credential URL](https://www.credly.com/badges/b07dad91-be42-4f3a-9eef-cb308e6296d8/public_url)]:
+    - Certification Name: IT Specialist: Data Analytics
+    - Issuing Organisation: Certiport, a Pearson VUE Business
+    - Date Earned: August 2026
 * **<ins>PEARSON  IT Specialist: Artificial Intelligence Certification - Certiport, a Pearson VUE Business (Earned: June 2026)</ins>**, 2026. Credential ID: nvB8-DkT5 [[Credential URL](https://www.credly.com/badges/0122be2b-607b-44a9-95ae-bb22913c9669/public_url)]:
     - Certification Name: IT Specialist: Artificial Intelligence
     - Issuing Organisation: Certiport, a Pearson VUE Business
