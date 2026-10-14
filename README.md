@@ -22,9 +22,9 @@
 #### 2026
 * **<ins>The Chartered Institute for Securities & Investment (CISI) UK Financial Regulation (Earned: August 2026)</ins>**, 2026. Credential ID: 12254189; UAN: L/504/8622
 #### 2006
-* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 4.0 (Custody/Depository Activity) (Federal Financial Markets Service - FFMS)**, 2006. Credential ID: KA008627
+* **<ins>Federal Financial Markets Service (FFMS) Qualification Certificate Series 4.0 (Custody/Depository Activity) (Federal Financial Markets Service - FFMS)</ins>**, 2006. Credential ID: KA008627
 #### 2005:
-* **Federal Financial Markets Service (FFMS) Qualification Certificate Series 1.0 (Broker/Dealer Activity) (Federal Financial Markets Service - FFMS)**, 2005. Credential ID: KA005053
+* **<ins>Federal Financial Markets Service (FFMS) Qualification Certificate Series 1.0 (Broker/Dealer Activity) (Federal Financial Markets Service - FFMS)</ins>**, 2005. Credential ID: KA005053
   
   
       
